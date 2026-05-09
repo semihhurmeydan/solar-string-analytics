@@ -4,16 +4,20 @@
 
 A complete end-to-end data tool that transforms raw SCADA telemetry and wiring plans into actionable insights for detecting underperforming PV strings.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://solar-string-analytics.streamlit.app/)
+
 ### Project Objective
-Build a reliable data pipeline to identify underperforming components in a solar plant, helping Operations & Maintenance (O&M) teams prioritize work and improve overall portfolio performance.
+Build a reliable data pipeline to identify underperforming components in a solar plant and help Operations & Maintenance teams prioritize work.
 
 ### Key Features
-- **Full Data Pipeline**: Raw SCADA → cleaned per-string time series (Parquet)
-- **String-to-Inverter Mapping** using wiring plans
-- **Performance Metrics**: Performance Ratio, temperature-normalized power, expected vs actual output
-- **Issue Detection**: Underperformance, clipping, major deviations
-- **Interactive Dashboard** with maintenance priority list
-- **Automated insights** for O&M teams
+- Full data pipeline: Raw SCADA → clean per-string time series
+- String-to-inverter mapping using wiring plans
+- Performance metrics (Performance Ratio, temperature normalized power)
+- Automated detection of underperformance and clipping
+- Interactive Streamlit dashboard with maintenance priority list
+
+### Live Demo
+**👉 [Open Live Dashboard](https://solar-string-analytics.streamlit.app/)**
 
 ### Tech Stack
 - Python, pandas, NumPy
