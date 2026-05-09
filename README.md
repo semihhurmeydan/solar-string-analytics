@@ -65,7 +65,13 @@ solar-string-analytics/
 └── README.md
 
 
+### Screenshots
 
+![Dashboard Overview](images/overview.png)
+![Power Analysis](images/string_comparison.png)
+![Maintenance Priority](images/maintanence_priority.png)
+
+*(Replace filenames with your actual screenshot names)*
 
 
 \### How to Run (Local)

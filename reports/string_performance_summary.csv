@@ -1,0 +1,13 @@
+string_id,avg_power_kw,avg_pr,is_underperforming,clipping_events
+STR_07,3.997,0.065,True,5
+STR_03,19.402,0.162,True,8
+STR_04,20.315,0.2,True,6
+STR_12,25.364,0.229,True,6
+STR_10,25.246,0.236,True,6
+STR_08,24.763,0.253,True,6
+STR_02,24.667,0.256,True,10
+STR_01,25.98,0.295,True,5
+STR_06,26.358,0.355,True,10
+STR_11,24.717,0.437,True,9
+STR_05,24.949,0.439,True,9
+STR_09,25.021,2.433,False,9
